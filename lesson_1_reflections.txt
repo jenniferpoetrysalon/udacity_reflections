@@ -1,0 +1,68 @@
+FC (WIN file compare) and diff (LINUX & Mac difference)
+
+FC/diff  compares line by line
+FC/diff  identifies changes per line
+FC/diff  highlights & compares section by section
+//of each file
+
+HISTORY for EFFICACY
+
+//version control history
+//allows reflection over time
+//time saved
+//learn from past mistakes
+//return to a previous version
+	if an attempt goes awry
+//never fear it's all here!
+
+Git commit, manual saving vs. auto-save
+
+PRO git commit
+//you choose
+//one commit per logical change
+//control
+//deliberate
+
+CON git commit
+//can't forget to commit
+//could over or under commit
+//aka could be a hollywood or pgh LOL (Celebrity Faire ref)
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+//Some version contronls, 
+	lit Git, allow saving multiple files
+	because their users and the purpose
+	of the version control system
+	is for linked files.  The files
+	for Git are often in bunches
+	and are interdepent.
+
+//While version control systems like Google Docs
+	are for writers and files, though related,
+	can be combined or seperated by the user
+	and are not dependent upon each other to 'run'.
+	Furthermore, a user of a Google Doc is thinking
+	about the words stopping to save one logical change
+	per commit would interfere with the process rather
+	than enhance the user experience.
+
+How can you use the commands git log and git diff to view the history of files?
+
+//git diff helps to compare two documents.  
+//Changes are easily viewed between two distinct versions that is between two commits.
+
+//git log allows you to see a list of all the versions.
+//Summaries of the changes, the commit ID, time stamp and made by are quickly visible.
+
+How might using version control make you more confident to make changes that could break something?
+
+//Version control allows TIME TRAVEL!
+//Break away because with git I can identify and locate bugs/broken code
+//and reinstate or ressurrect or copy the original lines of code that worked.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+//I'd like to use Git for my future 
+//Sundaysapp, SEC college live scoring app, and PoemMe app.
+
