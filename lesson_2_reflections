@@ -19,3 +19,47 @@ How is the staging area different from the working directory and the repository?
 //the git file where the commits(versions)
 //can be tracked.
 
+Git question:
+I don't quite understand the "add" step....but I think 
+this creates the 'staging area', aka alerts git to pay attention and have a
+file for it and then allows for commits to be saved in the third file, the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+//Create, test and consider changes
+//in the staging area before deciding on a commit
+//and to verify there is one logical change per commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+//Branches are helpful when there is asplit or decision to make
+//or change to create in code.  They seem especially useful
+//when you are about to make two versions of the same program, ie
+//a foreign language version, different levels to a game, or
+//other use driven UI split experiences.
+
+How do the diagrams help you visualize the branch structure?
+
+//The diagram shows commits and where they branch.
+//Knowing the working directory, staging area and commits
+//are crucial to making commits and therefore
+//maintaining record (logs) of your changes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+//Joining changes made by two different people is a good reason
+//to merge two branches, for example.
+//Or to merge to different contexts or experiments and they are in the diagram
+//as two seperate lines coming together because this commit
+//by taking two branches and merging them join together like the allegheny and
+//monogahela to make the ohio river, that is to create and re-esteablish the 
+//master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+//PROS to automatic:
+//git can make the changes that are obvious
+
+//CONS
+//the machine logic could miss something
+
+ADDING A CHANGE FOR MY GIT ADD TO STAGE AND GIT COMMIT QUIZ
