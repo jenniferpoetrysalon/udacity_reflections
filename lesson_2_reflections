@@ -1,0 +1,21 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+//Initalizing a repository 
+//creates the .git file.
+//It creates a folder and pathway
+//for git to store future commits.
+//This enables git to allow me to
+//commit and control versions thru
+//git log, git diff, git clone, git checkout, etc.
+//Aka I can see different commit versions.
+//Remember:  a commit reflects one logical change.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+//The staging area is where we work on the file before
+//executing a commit.
+//The repository houses
+//the files including
+//the git file where the commits(versions)
+//can be tracked.
+
