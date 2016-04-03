@@ -10,3 +10,6 @@ A1: Branches allow the creation of different versions of a project, for example,
 Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
 A1: The state of the remote copy stored locally allows you to compare your work with the state of the remote.  This enables git diff, git log, etc.
 
+Q5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A1: Tracking version, changes and commenting on these changes would be harder to collaborate without GitHub.  I suppose devising your own system would allow you to choose terminology that seems more fitting and natural making it easier than learning the theory and associated vocabulary invented by Git.
+
